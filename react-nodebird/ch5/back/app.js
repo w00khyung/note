@@ -22,11 +22,10 @@ db.sequelize
 	})
 	.catch(console.error);
 passportConfig();
-
 app.use(morgan('dev'));
 app.use(
 	cors({
-		origin: '*',
+		origin: 'http://localhost:3060',
 		credentials: true,
 	})
 );
@@ -38,7 +37,7 @@ app.use(
 	session({
 		saveUninitialized: false,
 		resave: false,
-		secret: true,
+		secret: process.env.COOKIE_SECRET,
 	})
 );
 app.use(passport.initialize());
@@ -52,6 +51,6 @@ app.use('/posts', postsRouter);
 app.use('/post', postRouter);
 app.use('/user', userRouter);
 
-app.listen(3061, () => {
+app.listen(3065, () => {
 	console.log('서버 실행 중!');
 });
