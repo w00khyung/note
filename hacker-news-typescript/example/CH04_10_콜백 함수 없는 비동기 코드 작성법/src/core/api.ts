@@ -10,7 +10,7 @@ export default class Api {
 
   async request<AjaxResponse>(): Promise<AjaxResponse> {
     const response = await fetch(this.url);
-    return await response.json() as AjaxResponse;
+    return (await response.json()) as AjaxResponse;
   }
 }
 
@@ -19,7 +19,7 @@ export class NewsFeedApi extends Api {
     super(NEWS_URL);
   }
 
-  async getData(): Promise<NewsFeed[]> {
+  getData(): Promise<NewsFeed[]> {
     return this.request<NewsFeed[]>();
   }
 }
@@ -29,7 +29,7 @@ export class NewsDetailApi extends Api {
     super(CONTENT_URL.replace('@id', id));
   }
 
-  async getData(): Promise<NewsDetail> {
+  getData(): Promise<NewsDetail> {
     return this.request<NewsDetail>();
   }
 }
