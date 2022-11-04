@@ -7,10 +7,10 @@ function App() {
     <HelmetProvider>
       <Helmet>
         <title>SEO Test</title>
-        <meta name='og:title' content='SEO Test' />
-        <meta name='og:description' content='SEO Test - Description' />
+        <meta property='og:title' content='SEO Test' />
+        <meta property='og:description' content='SEO Test - Description' />
         <meta
-          name='og:image'
+          property='og:image'
           content='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3f6fyQ3Sn3F6XGNFwethGoCoMD2RGBKhyffgL2H4FCw&s'
         />
       </Helmet>
