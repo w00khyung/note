@@ -1,21 +1,16 @@
 import logo from './logo.svg';
 import './App.css';
-import { Helmet } from 'react-helmet';
+import { Helmet } from 'react-helmet-async';
 
 function App() {
   return (
     <div className='App'>
       <Helmet>
-        <meta charSet='utf-8' />
         <title>SEO Test</title>
+        <meta name='description' content='안녕하세요 SEO TEST입니다!' />
         <meta
           property='og:image'
           content='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3f6fyQ3Sn3F6XGNFwethGoCoMD2RGBKhyffgL2H4FCw&s'
-        />
-        <meta property='og:title' content='SEO 테스트입니다. - title' />
-        <meta
-          property='og:description'
-          content='SEO 테스트입니다. - description'
         />
       </Helmet>
       <header className='App-header'>
