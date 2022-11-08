@@ -3,7 +3,7 @@
 <div markdown="1">
 
 ```
-📦 TodayMeet
+📦 react-boilerplate
  ┣ 📂public
  ┃ ┗ 📜index.html
  ┣ 📂src
