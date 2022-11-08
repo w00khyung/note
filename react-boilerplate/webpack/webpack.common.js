@@ -1,13 +1,19 @@
+/* eslint-disable import/no-extraneous-dependencies */
 const path = require('path');
+
 const HtmlWebpackPlugin = require('html-webpack-plugin');
+
+const aliases = require('../aliases');
 
 module.exports = {
   entry: './src/index.tsx',
-  mode: 'development',
-  resolve: { extensions: ['.js', '.jsx', '.ts', '.tsx'] },
+  resolve: {
+    extensions: ['.js', '.jsx', '.ts', '.tsx'],
+    alias: aliases.webpack,
+  },
   output: {
-    path: path.resolve(__dirname, 'dist'),
-    filename: '[name].js',
+    path: path.resolve(__dirname, '../build'),
+    filename: '[name].bundle.js',
     clean: true,
   },
   module: {
@@ -35,19 +41,6 @@ module.exports = {
         ],
       },
     ],
-  },
-  devServer: {
-    host: 'localhost',
-    port: 'auto',
-    hot: true,
-    open: true,
-    historyApiFallback: true,
-    client: {
-      overlay: {
-        errors: false,
-        warnings: false,
-      },
-    },
   },
   plugins: [
     new HtmlWebpackPlugin({
