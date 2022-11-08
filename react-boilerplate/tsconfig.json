@@ -8,5 +8,8 @@
     "strict": true,
     "skipLibCheck": true,
     "noImplicitAny": true
-  }
+  },
+  "include": ["**/*.ts", "**/*.tsx"],
+  "exclude": ["node_modules"],
+  "extends": "./tsconfig.path.json"
 }
