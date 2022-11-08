@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react';
+import Head from 'next/head';
 
 export default function Csr() {
   const [users, setUsers] = useState([]);
@@ -16,6 +17,9 @@ export default function Csr() {
   }, []);
   return (
     <div>
+      <Head>
+        <title>CSR SEO Test</title>
+      </Head>
       <h1>CSR</h1>
       <ul>
         {users.map((user) => {
