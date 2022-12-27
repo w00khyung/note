@@ -6,4 +6,4 @@ app.get('/', (req, res) => {
   res.send('Hello, Docker! 🐬');
 });
 
-app.listen(8080, () => console.log('Server started!'));
+app.listen(8080, () => console.log('Server Started!'));
