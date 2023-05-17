@@ -1,8 +1,9 @@
 type World = 'world';
 const a: World = 'world';
 
-const tuple: [number, string] = [1, '2'];
-tuple.push(2);
+const tuple: readonly [number, string] = [1, '2'];
+tuple.slice(); // OK!
+// tuple.push(2); // error
 
 const direction = {
   Up: 0,
@@ -94,9 +95,9 @@ const obj2: Surplus = obj1;
 
 // void
 // void는 return 값이 존재하면 안되나, undefined는 허용된다. (?)
-function func1(): void {
-  return null;
-}
+// function func1(): void {
+//   return null;
+// }
 
 function func2(): void {
   return undefined;
@@ -133,9 +134,9 @@ declare function forEach(arr: number[], callback: (el: number) => number): void;
 
 let target: number[] = [];
 forEach([1, 2, 3], (el) => target.push(el));
-forEach([1, 2, 3], (el) => {
-  target.push(el);
-});
+// forEach([1, 2, 3], (el) => {
+//   target.push(el);
+// });
 
 // void는 typescript에서 return 값이 있더라도 무시하므로, 원칙적으로 에러가 발생하지 않더라도 return 값을 적지 않는게 맞다.
 interface I1 {
