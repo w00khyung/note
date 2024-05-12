@@ -1,5 +1,9 @@
 # 공부 기록 📚
 
+## Blog
+- [Radix UI, asChild pattern에 대해서](https://wookhyung.hashnode.dev/radix-ui-aschild-pattern)
+- [App Router 살펴보기 (w/ Next.js Conf 2022, React Blog)](https://wookhyung.hashnode.dev/app-router-w-nextjs-conf-2022-react-blog)
+
 ## Book
 - [이펙티브 타입스크립트 스터디](https://wookhyung.notion.site/43d54c6e06504692ac6266ab3f3576c8?pvs=4)
 
