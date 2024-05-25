@@ -17,3 +17,4 @@
 - [TypeScript Style Guide](https://mkosir.github.io/typescript-style-guide/#introduction)
 - [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/)
 - [How To Strongly Type process.env](https://www.totaltypescript.com/how-to-strongly-type-process-env)
+- [satisfies: 안전한 업캐스팅을 통해 더 안전한 코드작성을 도와주는 새로운 키워드(TypeScript 4.9)](https://engineering.ab180.co/stories/satisfies-safe-upcasting)
