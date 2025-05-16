@@ -1,4 +1,4 @@
-# 공부 기록 📚
+# 공부 기록 및 스크랩 📚
 
 ## Blog
 - [Radix UI, asChild pattern에 대해서](https://wookhyung.hashnode.dev/radix-ui-aschild-pattern) (2024-03-19)
@@ -13,12 +13,12 @@
 - [HYPERMEDIA SYSTEMS](https://hypermedia.systems/)
 
 ## Front-end
-- [(번역) 프런트엔드의 미래 탐색하기](https://ykss.netlify.app/translation/navigating_the_future_of_frontend) (2024-04-16)
+- [(번역) 프런트엔드의 미래 탐색하기](https://ykss.netlify.app/translation/navigating_the_future_of_frontend)
 
 ## React
-- [React에서 중복호출(aka. 따닥)을 막는 완벽한 방법](https://happysisyphe.tistory.com/m/72) (2024-04-14)
-- [리액트에서 key에 index를 넣으면 안 되는 '진짜' 이유](https://yozm.wishket.com/magazine/detail/2634) (2024-06-18)
-- [Merging Remix and React Router](https://remix.run/blog/merging-remix-and-react-router) (2024-05-15)
+- [React에서 중복호출(aka. 따닥)을 막는 완벽한 방법](https://happysisyphe.tistory.com/m/72)
+- [리액트에서 key에 index를 넣으면 안 되는 '진짜' 이유](https://yozm.wishket.com/magazine/detail/2634))
+- [Merging Remix and React Router](https://remix.run/blog/merging-remix-and-react-router)
 
 ## TypeScript
 - [TypeScript Style Guide](https://mkosir.github.io/typescript-style-guide/#introduction)
