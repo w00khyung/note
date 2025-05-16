@@ -25,3 +25,6 @@
 - [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/)
 - [How To Strongly Type process.env](https://www.totaltypescript.com/how-to-strongly-type-process-env)
 - [satisfies: 안전한 업캐스팅을 통해 더 안전한 코드작성을 도와주는 새로운 키워드(TypeScript 4.9)](https://engineering.ab180.co/stories/satisfies-safe-upcasting)
+
+## Cursor
+- [토스 프론트엔드 가이드라인 기반으로 만든 Cursor rule](https://gist.github.com/toy-crane/dde6258997519d954063a536fc72d055)
