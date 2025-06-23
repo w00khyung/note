@@ -23,7 +23,7 @@
 
 ### React
 - [React에서 중복호출(aka. 따닥)을 막는 완벽한 방법](https://happysisyphe.tistory.com/m/72)
-- [리액트에서 key에 index를 넣으면 안 되는 '진짜' 이유](https://yozm.wishket.com/magazine/detail/2634))
+- [리액트에서 key에 index를 넣으면 안 되는 '진짜' 이유](https://yozm.wishket.com/magazine/detail/2634)
 - [Merging Remix and React Router](https://remix.run/blog/merging-remix-and-react-router)
 
 ### TypeScript
