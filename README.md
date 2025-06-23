@@ -34,3 +34,6 @@
 
 ### Cursor
 - [토스 프론트엔드 가이드라인 기반으로 만든 Cursor rule](https://gist.github.com/toy-crane/dde6258997519d954063a536fc72d055)
+
+### SWE
+- ["개발자가 대체된다"는 유행은 왜 반복될까?](https://news.hada.io/topic?id=21150)
