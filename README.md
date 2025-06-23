@@ -1,4 +1,4 @@
-# 공부 기록 및 스크랩 📚
+# Note
 
 ## Blog
 - [Radix UI, asChild pattern에 대해서](https://wookhyung.hashnode.dev/radix-ui-aschild-pattern) (2024-03-19)
