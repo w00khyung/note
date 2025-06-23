@@ -2,7 +2,7 @@
 
 ## Personal
 
-### Blog
+### [Blog](https://velog.io/@ctdlog)
 - [Radix UI, asChild pattern에 대해서](https://wookhyung.hashnode.dev/radix-ui-aschild-pattern) (2024-03-19)
 - [App Router 살펴보기 (w/ Next.js Conf 2022, React Blog)](https://wookhyung.hashnode.dev/app-router-w-nextjs-conf-2022-react-blog) (2024-02-27)
 
