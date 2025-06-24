@@ -20,6 +20,7 @@
 
 ### Front-end
 - [(번역) 프런트엔드의 미래 탐색하기](https://ykss.netlify.app/translation/navigating_the_future_of_frontend)
+- [요구사항의 변화로 알아가는 클린코드](https://junilhwang.github.io/TIL/clean-code/as-requirements-change/)
 
 ### React
 - [React에서 중복호출(aka. 따닥)을 막는 완벽한 방법](https://happysisyphe.tistory.com/m/72)
