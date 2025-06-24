@@ -3,13 +3,13 @@
 ## Personal
 
 ### [Blog](https://velog.io/@ctdlog)
-- [Radix UI, asChild pattern에 대해서](https://wookhyung.hashnode.dev/radix-ui-aschild-pattern) (2024-03-19)
-- [App Router 살펴보기 (w/ Next.js Conf 2022, React Blog)](https://wookhyung.hashnode.dev/app-router-w-nextjs-conf-2022-react-blog) (2024-02-27)
+- [Radix UI, asChild pattern에 대해서](https://wookhyung.hashnode.dev/radix-ui-aschild-pattern)
+- [App Router 살펴보기 (w/ Next.js Conf 2022, React Blog)](https://wookhyung.hashnode.dev/app-router-w-nextjs-conf-2022-react-blog)
 
 ### Book
-- [이펙티브 타입스크립트](https://wookhyung.notion.site/43d54c6e06504692ac6266ab3f3576c8?pvs=4) (2024-05-11 ~ 2024-06-30)
-- [모던 리액트 딥다이브](https://frontend-log.vercel.app/) (2024-04-02 ~ 2024-06-04)
-- [You Don't Know JS Yet](https://github.com/thoupe/you-dont-know-js-yet-book-study) (2024-06-10 ~ 2024-07-13)
+- [이펙티브 타입스크립트](https://wookhyung.notion.site/43d54c6e06504692ac6266ab3f3576c8?pvs=4) 
+- [모던 리액트 딥다이브](https://frontend-log.vercel.app/) 
+- [You Don't Know JS Yet](https://github.com/thoupe/you-dont-know-js-yet-book-study)
 
 ---
 
