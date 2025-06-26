@@ -7,9 +7,11 @@
 - [App Router 살펴보기 (w/ Next.js Conf 2022, React Blog)](https://wookhyung.hashnode.dev/app-router-w-nextjs-conf-2022-react-blog)
 
 ### Book
+- [모던 자바스크립트 딥다이브](https://github.com/monthly-cs/2024-07-modern-javascript-deep-dive)
 - [이펙티브 타입스크립트](https://wookhyung.notion.site/43d54c6e06504692ac6266ab3f3576c8?pvs=4) 
 - [모던 리액트 딥다이브](https://frontend-log.vercel.app/) 
 - [You Don't Know JS Yet](https://github.com/thoupe/you-dont-know-js-yet-book-study)
+- [육각형 개발자: 시니어 개발자로 성장하기 위한 10가지 핵심 역량](https://product.kyobobook.co.kr/detail/S000203107475)
 
 ---
 
