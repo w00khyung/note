@@ -14,7 +14,7 @@
 - [육각형 개발자: 시니어 개발자로 성장하기 위한 10가지 핵심 역량](https://product.kyobobook.co.kr/detail/S000203107475)
 - [실용주의 프로그래머](https://product.kyobobook.co.kr/detail/S000001033128)
 
-### Contribute
+### Contribution
 - [[TanStack/Router](https://github.com/TanStack/router)] [fix(react-router, solid-router): make head function scripts load properly](https://github.com/TanStack/router/pull/4323)
 
 ---
